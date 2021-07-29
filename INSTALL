@@ -1,0 +1,12 @@
+Installation for UNIX like systems:
+
+1. Install Poly/ML 5.7 or later (http://www.polyml.org/download.html).
+
+2. In the L3-????-??-?? directory do:
+
+  $ make
+
+3. Update your PATH environment variable to include the L3-????-??-??/bin
+   directory. You can then start L3 with
+
+  $ l3

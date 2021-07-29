@@ -1,0 +1,25 @@
+2018-01-09: Add GOOD_MATCH variable for testing '.. (x) ..' patterns.
+2017-12-04: Adds a few more floating-point operations.
+2017-07-12: Added floating-point operations that return exception flags.
+2017-06-22: Use SML FFI interfaces to x86 SSE floating-point instead of Real.
+2017-03-09: Provide mechanism for avoiding HOL4 big records.
+2016-06-22: Improve HOL export for pure functions that use "var".
+2016-05-17: Support basic inlining and add a PROVER_EXPORT flag.
+2016-05-13: Permit type bits(C) where C is a computed constant value.
+2016-04-29: Theorem prover output simplified for side-effect free operations.
+2016-04-29: Support export to an L3 intermediate language (IL).
+2016-01-05: Use polyc in Makefile.
+2015-11-20: Extend floating-point support.
+2015-10-16: Register to bit-vector functions now use concat instead of modify.
+2015-09-30: Support export to Isabelle/HOL.
+2015-06-19: Add a QuotRem operation. Disable checks in the BitsN library.
+2014-10-22: Add some more set and list operations. Also new "foreach" construct.
+2014-08-11: Adds option for exporting SML as a functor.
+2014-07-11: Various minor changes. Support for more bit-string operations.
+2014-04-16: Add casting support for char type.
+2014-03-12: Users can now supply their own termination proofs if needed.
+2014-01-13: Signature file now generated during SML export.
+2013-12-03: Improvements to error reporting.
+2013-11-28: Interpreter now supports 64-bit floating-point operations.
+2013-11-27: Support export to SML.
+2013-09-24: Update for compatibility with Poly/ML 5.5.1 (avoid known bug).
